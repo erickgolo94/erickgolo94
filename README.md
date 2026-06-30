@@ -12,8 +12,8 @@ A results-driven Data Analyst focused on transforming raw data into actionable b
 ---
 
 ### 📂 Featured Projects
-* **[Insert Project Name 1]** - Interactive Tableau dashboard focused on sales performance and business metrics tracking.
-* **[Insert Project Name 2]** - Complex SQL queries and data cleaning procedures designed for data optimization.
+* **Bicycle Purchase Conversion Analysis** - Interactive Tableau dashboard focused on sales performance and business metrics tracking.
+* **Global Tech Layoffs** - Complex SQL queries and data cleaning procedures designed for data optimization.
 
 ---
 
