@@ -19,6 +19,5 @@ A results-driven Data Analyst focused on transforming raw data into actionable b
 
 ### 📫 Connect with Me
 * **Email:** erickgolo25@gmail.com
-* **LinkedIn:** [Insert your LinkedIn Link here]
 
 *"Turning raw data into strategic execution."*
