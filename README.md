@@ -12,8 +12,10 @@ A results-driven Data Analyst focused on transforming raw data into actionable b
 ---
 
 ### 📂 Featured Projects
+* **E-Commerce Customer Behavior & Retention Analysis - End-to-end data pipeline implementation focusing on customer segmentation, purchase trend analysis, and churn prevention strategy.
 * **Bicycle Purchase Conversion Analysis** - Interactive MS Excel dashboard focused on sales performance and business metrics tracking.
 * **Global Tech Layoffs** - Complex SQL queries and data cleaning procedures designed for data optimization.
+
 
 ---
 
